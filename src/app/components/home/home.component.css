@@ -1,0 +1,17 @@
+.jumbotron {
+
+    width: 100%;
+    height: 60vh;
+     background-image: url(http://www.elgrad.ssru.ac.th/natnaporn_ae/pluginfile.php/1/theme_essential/slide2image/1532425277/002%20%281%29.jpg);
+    background-position: center top;
+    background-size:cover; 
+    text-align: center;
+    color:deeppink;
+
+}
+.img-thumbnail{
+    width: 350px;
+    height: 145px;
+}
+
+
